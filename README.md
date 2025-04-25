@@ -1,2 +1,6 @@
 # hello-world
-New repository
+
+Hello:
+
+Srikar here, I like coding in Python, JavaScript, and C++,
+
